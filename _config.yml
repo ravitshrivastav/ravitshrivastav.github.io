@@ -34,24 +34,24 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: blah
+twitter: ravitshrivastav
 # google: mygoogle
-# instagram: myinstagram
+instagram: ravitshrivastav
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: ravitshrivastav
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: ravitshrivastav
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: ravit
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ravitshrivastav@gmail.com
 
 authors:
     johndoe:
