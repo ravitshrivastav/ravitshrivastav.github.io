@@ -12,7 +12,7 @@ author: ravitshrivastav
 description: Markdown summary with different options
 ---
 
-## Summary:
+
 
 I crossed 25 years of being alive and I have some thoughts.
 
